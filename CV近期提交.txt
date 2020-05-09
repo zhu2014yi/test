@@ -1,0 +1,8 @@
+Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji.
+Siamese Box Adaptive Network for Visual Tracking.?[bibtex]
+IEEE International Conference on Computer Vision and Pattern Recognition (CVPR).
+
+
+Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shutao Xia, Yong Zhao, Rongrong Ji.
+One-shot Adversarial Attacks on Visual Tracking with Dual Attention.?[bibtex]
+IEEE International Conference on Computer Vision and Pattern Recognition (CVPR).
